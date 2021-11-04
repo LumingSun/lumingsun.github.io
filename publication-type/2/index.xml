@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | LumingSun</title><link>https://example.com/publication-type/2/</link><atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_huc590722d2e0a18d61ee72dc065a727d9_21455_512x512_fill_lanczos_center_2.png</url><title>2</title><link>https://example.com/publication-type/2/</link></image><item><title>MOSE: A Monotonic Selectivity Estimator Using Learned CDF</title><link>https://example.com/publication/mose/</link><pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/mose/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | LumingSun</title><link>https://example.com/publication-type/2/</link><atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_huc590722d2e0a18d61ee72dc065a727d9_21455_512x512_fill_lanczos_center_2.png</url><title>2</title><link>https://example.com/publication-type/2/</link></image><item><title>SCVP:Multi-stage Method for Online Vertical Data Partitioning Based on Spectral Clustering (In Chinese)</title><link>https://example.com/publication/scvp/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/scvp/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>MOSE: A Monotonic Selectivity Estimator Using Learned CDF</title><link>https://example.com/publication/mose/</link><pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/mose/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
