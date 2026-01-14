@@ -98,17 +98,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>MOSE: A learned Selectivity Estimator</title><link>https://example.com/talk/mose-a-learned-selectivity-estimator/</link><pubDate>Wed, 10 Nov 2021 13:00:00 +0000</pubDate><guid>https://example.com/talk/mose-a-learned-selectivity-estimator/</guid><description>&lt;!-- &lt;div class="alert alert-note">
-&lt;div>
-Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
-&lt;/div>
-&lt;/div>
-Slides can be added in a few ways:
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
---></description></item><item><title>SCVP:Multi-stage Method for Online Vertical Data Partitioning Based on Spectral Clustering (In Chinese)</title><link>https://example.com/publication/scvp/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/scvp/</guid><description>&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>SCVP:Multi-stage Method for Online Vertical Data Partitioning Based on Spectral Clustering (In Chinese)</title><link>https://example.com/publication/scvp/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/scvp/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
